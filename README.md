@@ -13,5 +13,5 @@
 8.	缓存文件日志在Client\bin\Debug\Cache\log.txt  
 ![image](https://user-images.githubusercontent.com/30466608/226262167-e7990595-64a8-4802-960f-15d88f7eb513.png)  
 ![image](https://user-images.githubusercontent.com/30466608/229811968-cf9f6501-f155-4275-8800-dbe9c9f83212.png)  
-![image](https://user-images.githubusercontent.com/30466608/229812016-0997c7a7-c1fb-4b8d-8a92-41b39dadbd1d.png)  
+![image](https://user-images.githubusercontent.com/30466608/229812344-01f6a2af-b0d5-4883-a9a0-a076fb595131.png)  
 ![image](https://user-images.githubusercontent.com/30466608/226262987-ed5fb9b4-18d0-491f-97df-f1cab5d5e8cd.png)
