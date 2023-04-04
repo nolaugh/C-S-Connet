@@ -12,6 +12,6 @@
 7.	客户端通过缓存下载的文件位置在C:\Client_Download  
 8.	缓存文件日志在Client\bin\Debug\Cache\log.txt  
 ![image](https://user-images.githubusercontent.com/30466608/226262167-e7990595-64a8-4802-960f-15d88f7eb513.png)  
-![微信图片_20230321174235](https://user-images.githubusercontent.com/30466608/226568561-3e29145f-4b18-4be7-94c4-b369de774548.png)
-![微信图片_20230321174240](https://user-images.githubusercontent.com/30466608/226568594-5744d0ab-5e80-4c90-9fac-d0a02b3bcf6c.png)
+![image](https://user-images.githubusercontent.com/30466608/229811968-cf9f6501-f155-4275-8800-dbe9c9f83212.png)  
+![image](https://user-images.githubusercontent.com/30466608/229812016-0997c7a7-c1fb-4b8d-8a92-41b39dadbd1d.png)  
 ![image](https://user-images.githubusercontent.com/30466608/226262987-ed5fb9b4-18d0-491f-97df-f1cab5d5e8cd.png)
